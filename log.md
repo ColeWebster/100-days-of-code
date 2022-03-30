@@ -6,13 +6,13 @@
 
 **Thoughts:**: It has been good to work on these items as I haven't focused on them in a bit. Good to build that foundation again for the future. 
 
-**Link to work:** 
+**Link to work:** : https://github.com/ColeWebster/100-days-of-code/commit/7e263f7cb5fd6ecd96647fc4dd7c1661c300e785
 
-### Day 0: March 30th 2022
+### Day 2: March 30th 2022
 
-**Today's Progress**: 
+**Today's Progress**: Started learning Go language developed by Google for backend work.
 
-**Thoughts:** 
+**Thoughts:**: Struggled to get started but felt good when I was able to get the simple hello world on the screen
 
-**Link to work:** 
+**Link to work:** : 
 
